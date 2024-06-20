@@ -38,5 +38,6 @@ public class ExamplesOfCssSelectors {
         $x("//div[text()='Hello, qa.guru!']").click();
         $(byText("Hello, qa.guru!")).click();
         $(withText("llo, qa.gur")).click();
+
     }
 }
